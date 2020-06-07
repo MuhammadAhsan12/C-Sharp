@@ -1,0 +1,8 @@
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator sin cos tan\Calculator sin cos tan\obj\Debug\Calculator sin cos tan.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator sin cos tan\Calculator sin cos tan\obj\Debug\Calculator_sin_cos_tan.MainForm.resources
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator sin cos tan\Calculator sin cos tan\obj\Debug\Calculator sin cos tan.csproj.GenerateResource.Cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator sin cos tan\Calculator sin cos tan\bin\Debug\Calculator sin cos tan.exe.config
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator sin cos tan\Calculator sin cos tan\bin\Debug\Calculator sin cos tan.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator sin cos tan\Calculator sin cos tan\bin\Debug\Calculator sin cos tan.pdb
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator sin cos tan\Calculator sin cos tan\obj\Debug\Calculator sin cos tan.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator sin cos tan\Calculator sin cos tan\obj\Debug\Calculator sin cos tan.pdb

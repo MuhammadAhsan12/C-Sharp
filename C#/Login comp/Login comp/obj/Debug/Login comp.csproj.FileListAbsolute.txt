@@ -1,0 +1,6 @@
+F:\SharpDevelop Projects\Login comp\Login comp\bin\Debug\Login comp.exe.config
+F:\SharpDevelop Projects\Login comp\Login comp\bin\Debug\Login comp.exe
+F:\SharpDevelop Projects\Login comp\Login comp\bin\Debug\Login comp.pdb
+F:\SharpDevelop Projects\Login comp\Login comp\obj\Debug\Login comp.csprojResolveAssemblyReference.cache
+F:\SharpDevelop Projects\Login comp\Login comp\obj\Debug\Login comp.exe
+F:\SharpDevelop Projects\Login comp\Login comp\obj\Debug\Login comp.pdb

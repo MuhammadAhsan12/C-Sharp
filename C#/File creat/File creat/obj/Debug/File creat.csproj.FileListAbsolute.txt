@@ -1,0 +1,6 @@
+C:\Users\Ahsan\Documents\SharpDevelop Projects\File creat\File creat\obj\Debug\File creat.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\File creat\File creat\bin\Debug\File creat.exe.config
+C:\Users\Ahsan\Documents\SharpDevelop Projects\File creat\File creat\bin\Debug\File creat.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\File creat\File creat\bin\Debug\File creat.pdb
+C:\Users\Ahsan\Documents\SharpDevelop Projects\File creat\File creat\obj\Debug\File creat.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\File creat\File creat\obj\Debug\File creat.pdb
