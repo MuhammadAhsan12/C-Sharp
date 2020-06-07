@@ -1,0 +1,8 @@
+C:\Users\Ahsan\Documents\SharpDevelop Projects\pic editor\pic editor\bin\Debug\pic editor.exe.config
+C:\Users\Ahsan\Documents\SharpDevelop Projects\pic editor\pic editor\bin\Debug\pic editor.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\pic editor\pic editor\bin\Debug\pic editor.pdb
+C:\Users\Ahsan\Documents\SharpDevelop Projects\pic editor\pic editor\obj\Debug\pic editor.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\pic editor\pic editor\obj\Debug\pic editor.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\pic editor\pic editor\obj\Debug\pic editor.pdb
+C:\Users\Ahsan\Documents\SharpDevelop Projects\pic editor\pic editor\obj\Debug\pic_editor.MainForm.resources
+C:\Users\Ahsan\Documents\SharpDevelop Projects\pic editor\pic editor\obj\Debug\pic editor.csproj.GenerateResource.Cache

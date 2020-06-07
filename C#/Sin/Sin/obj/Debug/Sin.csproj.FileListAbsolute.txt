@@ -1,0 +1,6 @@
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Sin\Sin\bin\Debug\Sin.exe.config
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Sin\Sin\bin\Debug\Sin.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Sin\Sin\bin\Debug\Sin.pdb
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Sin\Sin\obj\Debug\Sin.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Sin\Sin\obj\Debug\Sin.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Sin\Sin\obj\Debug\Sin.pdb

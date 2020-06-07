@@ -1,0 +1,8 @@
+C:\Users\Ahsan\Documents\SharpDevelop Projects\recursion fact\recursion fact\obj\Debug\recursion fact.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\recursion fact\recursion fact\obj\Debug\recursion_fact.MainForm.resources
+C:\Users\Ahsan\Documents\SharpDevelop Projects\recursion fact\recursion fact\obj\Debug\recursion fact.csproj.GenerateResource.Cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\recursion fact\recursion fact\bin\Debug\recursion fact.exe.config
+C:\Users\Ahsan\Documents\SharpDevelop Projects\recursion fact\recursion fact\bin\Debug\recursion fact.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\recursion fact\recursion fact\bin\Debug\recursion fact.pdb
+C:\Users\Ahsan\Documents\SharpDevelop Projects\recursion fact\recursion fact\obj\Debug\recursion fact.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\recursion fact\recursion fact\obj\Debug\recursion fact.pdb

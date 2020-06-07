@@ -1,0 +1,8 @@
+C:\Users\Ahsan\Documents\SharpDevelop Projects\integer series\integer series\obj\Debug\integer series.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\integer series\integer series\obj\Debug\integer_series.MainForm.resources
+C:\Users\Ahsan\Documents\SharpDevelop Projects\integer series\integer series\obj\Debug\integer series.csproj.GenerateResource.Cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\integer series\integer series\bin\Debug\integer series.exe.config
+C:\Users\Ahsan\Documents\SharpDevelop Projects\integer series\integer series\bin\Debug\integer series.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\integer series\integer series\bin\Debug\integer series.pdb
+C:\Users\Ahsan\Documents\SharpDevelop Projects\integer series\integer series\obj\Debug\integer series.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\integer series\integer series\obj\Debug\integer series.pdb
