@@ -1,0 +1,8 @@
+C:\Users\Maryam\Documents\SharpDevelop Projects\aa\aa\bin\Debug\aa.exe.config
+C:\Users\Maryam\Documents\SharpDevelop Projects\aa\aa\bin\Debug\aa.exe
+C:\Users\Maryam\Documents\SharpDevelop Projects\aa\aa\bin\Debug\aa.pdb
+C:\Users\Maryam\Documents\SharpDevelop Projects\aa\aa\obj\Debug\aa.csprojResolveAssemblyReference.cache
+C:\Users\Maryam\Documents\SharpDevelop Projects\aa\aa\obj\Debug\aa.MainForm.resources
+C:\Users\Maryam\Documents\SharpDevelop Projects\aa\aa\obj\Debug\aa.csproj.GenerateResource.Cache
+C:\Users\Maryam\Documents\SharpDevelop Projects\aa\aa\obj\Debug\aa.exe
+C:\Users\Maryam\Documents\SharpDevelop Projects\aa\aa\obj\Debug\aa.pdb
