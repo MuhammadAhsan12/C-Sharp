@@ -1,0 +1,3 @@
+C:\Users\Ahsan\Documents\SharpDevelop Projects\factorial recursion\factorial recursion\obj\Debug\factorial recursion.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\factorial recursion\factorial recursion\obj\Debug\factorial_recursion.MainForm.resources
+C:\Users\Ahsan\Documents\SharpDevelop Projects\factorial recursion\factorial recursion\obj\Debug\factorial recursion.csproj.GenerateResource.Cache

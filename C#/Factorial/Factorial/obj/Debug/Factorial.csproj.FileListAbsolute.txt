@@ -1,0 +1,8 @@
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Factorial\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Factorial\Factorial\obj\Debug\Factorial.MainForm.resources
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Factorial\Factorial\obj\Debug\Factorial.csproj.GenerateResource.Cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Factorial\Factorial\obj\Debug\Factorial.pdb

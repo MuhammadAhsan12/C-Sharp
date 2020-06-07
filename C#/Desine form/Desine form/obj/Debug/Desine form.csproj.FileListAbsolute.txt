@@ -1,0 +1,8 @@
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Desine form\Desine form\bin\Debug\Desine form.exe.config
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Desine form\Desine form\bin\Debug\Desine form.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Desine form\Desine form\bin\Debug\Desine form.pdb
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Desine form\Desine form\obj\Debug\Desine form.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Desine form\Desine form\obj\Debug\Desine_form.MainForm.resources
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Desine form\Desine form\obj\Debug\Desine form.csproj.GenerateResource.Cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Desine form\Desine form\obj\Debug\Desine form.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Desine form\Desine form\obj\Debug\Desine form.pdb

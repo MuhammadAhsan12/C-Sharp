@@ -1,0 +1,8 @@
+C:\Users\Ahsan\Documents\SharpDevelop Projects\binary octal haxel converter\binary octal haxel converter\obj\Debug\binary octal haxel converter.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\binary octal haxel converter\binary octal haxel converter\obj\Debug\binary_octal_haxel_converter.MainForm.resources
+C:\Users\Ahsan\Documents\SharpDevelop Projects\binary octal haxel converter\binary octal haxel converter\obj\Debug\binary octal haxel converter.csproj.GenerateResource.Cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\binary octal haxel converter\binary octal haxel converter\bin\Debug\binary octal haxel converter.exe.config
+C:\Users\Ahsan\Documents\SharpDevelop Projects\binary octal haxel converter\binary octal haxel converter\bin\Debug\binary octal haxel converter.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\binary octal haxel converter\binary octal haxel converter\bin\Debug\binary octal haxel converter.pdb
+C:\Users\Ahsan\Documents\SharpDevelop Projects\binary octal haxel converter\binary octal haxel converter\obj\Debug\binary octal haxel converter.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\binary octal haxel converter\binary octal haxel converter\obj\Debug\binary octal haxel converter.pdb
