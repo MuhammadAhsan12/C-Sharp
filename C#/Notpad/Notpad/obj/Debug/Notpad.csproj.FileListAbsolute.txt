@@ -1,0 +1,8 @@
+C:\Users\Maryam\Documents\SharpDevelop Projects\Notpad\Notpad\obj\Debug\Notpad.csprojResolveAssemblyReference.cache
+C:\Users\Maryam\Documents\SharpDevelop Projects\Notpad\Notpad\obj\Debug\Notpad.MainForm.resources
+C:\Users\Maryam\Documents\SharpDevelop Projects\Notpad\Notpad\obj\Debug\Notpad.csproj.GenerateResource.Cache
+C:\Users\Maryam\Documents\SharpDevelop Projects\Notpad\Notpad\bin\Debug\Notpad.exe.config
+C:\Users\Maryam\Documents\SharpDevelop Projects\Notpad\Notpad\bin\Debug\Notpad.exe
+C:\Users\Maryam\Documents\SharpDevelop Projects\Notpad\Notpad\bin\Debug\Notpad.pdb
+C:\Users\Maryam\Documents\SharpDevelop Projects\Notpad\Notpad\obj\Debug\Notpad.exe
+C:\Users\Maryam\Documents\SharpDevelop Projects\Notpad\Notpad\obj\Debug\Notpad.pdb

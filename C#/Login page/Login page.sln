@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login page", "Login page\Login page.csproj", "{F2144C45-05BF-420B-ACDA-932076055D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrMean", "FrMean\FrMean.csproj", "{DFCDA310-4576-40CA-9863-E6A7BC6E70D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2144C45-05BF-420B-ACDA-932076055D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2144C45-05BF-420B-ACDA-932076055D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2144C45-05BF-420B-ACDA-932076055D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2144C45-05BF-420B-ACDA-932076055D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFCDA310-4576-40CA-9863-E6A7BC6E70D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCDA310-4576-40CA-9863-E6A7BC6E70D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCDA310-4576-40CA-9863-E6A7BC6E70D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCDA310-4576-40CA-9863-E6A7BC6E70D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

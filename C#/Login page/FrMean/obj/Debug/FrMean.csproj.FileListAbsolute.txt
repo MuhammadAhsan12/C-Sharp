@@ -1,0 +1,8 @@
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Login page\FrMean\bin\Debug\FrMean.exe.config
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Login page\FrMean\bin\Debug\FrMean.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Login page\FrMean\bin\Debug\FrMean.pdb
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Login page\FrMean\obj\Debug\FrMean.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Login page\FrMean\obj\Debug\FrMean.MainForm.resources
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Login page\FrMean\obj\Debug\FrMean.csproj.GenerateResource.Cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Login page\FrMean\obj\Debug\FrMean.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Login page\FrMean\obj\Debug\FrMean.pdb
