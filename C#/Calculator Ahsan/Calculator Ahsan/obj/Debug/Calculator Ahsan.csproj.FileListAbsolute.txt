@@ -1,0 +1,8 @@
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator Ahsan\Calculator Ahsan\bin\Debug\Calculator Ahsan.exe.config
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator Ahsan\Calculator Ahsan\bin\Debug\Calculator Ahsan.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator Ahsan\Calculator Ahsan\bin\Debug\Calculator Ahsan.pdb
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator Ahsan\Calculator Ahsan\obj\Debug\Calculator Ahsan.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator Ahsan\Calculator Ahsan\obj\Debug\Calculator_Ahsan.MainForm.resources
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator Ahsan\Calculator Ahsan\obj\Debug\Calculator Ahsan.csproj.GenerateResource.Cache
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator Ahsan\Calculator Ahsan\obj\Debug\Calculator Ahsan.exe
+C:\Users\Ahsan\Documents\SharpDevelop Projects\Calculator Ahsan\Calculator Ahsan\obj\Debug\Calculator Ahsan.pdb
